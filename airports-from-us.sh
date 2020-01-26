@@ -1,0 +1,1 @@
+curl --user someuser:psw --header "Accept-language:NL" http://localhost:8080/locations/airport/US | json_pp
